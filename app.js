@@ -13,9 +13,9 @@ import { v2 as cloudinary } from 'cloudinary';
 dotenv.config();
 
 cloudinary.config({
-    cloud_name: "dcl5p8ozq",
-    api_key: "191881218889299",
-    api_secret: "PMPray56WbgPyZDM_EvyORYH-Ww",
+    cloud_name: "<name>",
+    api_key: "<KEY>",
+    api_secret: "<KEY>",
 });
 
 //connection to the DB
