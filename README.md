@@ -11,8 +11,8 @@ projeyi indirdikten ilgili dosyaya cmd veya vscode kullanıyorsanız terminal pa
 
 app.js dosyasında
  `cloudinary.config({
-    cloud_name: "dcl5p8ozq",
-    api_key: "191881218889299",
+    cloud_name: "<name>",
+    api_key: "<KEY>",
     api_secret: "<secret-key>",
 });`
 
